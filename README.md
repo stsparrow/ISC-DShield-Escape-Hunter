@@ -22,9 +22,6 @@ A tool designed to work in conjunction with the ISC DShield system. Its primary 
    chmod +x escape_hunter.sh
    sudo ./escape_hunter.sh
 
-Contribution
-Feel free to submit issues or pull requests if you identify any bugs or have suggestions for improvements.
-
 License
 MIT
 
