@@ -1,6 +1,6 @@
 # ISC-DShield-Escape-Hunter
 
-A tool designed to work in conjunction with the DShield honeypot. Its primary purpose is to identify and report on potential escape sequences present in logs and downloads, thereby helping the analyst to understand the risk involved in directlly reading log files with cat.
+A tool designed to work in conjunction with the DShield honeypot. Its primary purpose is to identify and report on potential escape sequences present in logs and downloads, thereby helping the analyst to understand the risk involved in directly reading log files with tools like cat.
 
 ## Features
 - **Superuser Privilege Check**: Ensures the script runs with the necessary permissions.
